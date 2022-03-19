@@ -1,5 +1,5 @@
 
-# Métodos são tipos de funções associadas à uma classe, também podem ser chamadas de "comportamentos" de uma classe
+# Métodos são tipos de funções associadas à uma classe, também podem ser chamadas de "comportamentos" de uma das mesmas
 
 class Carro():
     def buzinar(self): 
