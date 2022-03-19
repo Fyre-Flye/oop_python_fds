@@ -1,5 +1,6 @@
 # oop_python_fds
-Software Engineering Subject Assignment with python OOP paradigms 
+
+Atividade de engenharia de software com conceitos do paradigma de programação orientada à objeto usando python
 
 ---
 
