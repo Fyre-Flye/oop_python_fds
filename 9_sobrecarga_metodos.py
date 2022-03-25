@@ -1,6 +1,6 @@
-# No conceito de programação em geral existe um conceito para assinatura de métodos
+# No conceito de programação em geral existe o conceito de assinatura de métodos
 # O que permite que um método de mesmo nome consiga ter comportamentos diferentes
-# As assinaturas de um método são em resumo, sua quantidade de argumentos 
+# As assinaturas de um método são em resumo, sua quantidade de argumentos, o que lhes fazem métodos únicos ou assinados
 
 from multipledispatch import dispatch # O python não suporta assinatura de métodos, então para melhor exemplicar a assinatura de métodos usaremos essa biblioteca
 
