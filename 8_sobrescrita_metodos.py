@@ -1,4 +1,4 @@
-# Dentro do conceito de polimorfismo para um mesma característica de um objeto
+# Dentro do conceito de polimorfismo para uma mesma característica de um objeto
 # Podemos assumi-las de várias formas conforme a necessidade, tanto métodos (comportamento) quanto atributos (características)
 
 class Carro():
