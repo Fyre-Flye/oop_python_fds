@@ -32,5 +32,5 @@ c3.ligado = False
 
 print("C3")
 print(f"É uma string? {isinstance(c3.ligado, str)}")
-print(f"É um int? {isinstance(c3.ligado, int)}") # ps: falso é o mesmo que 0 (bibliotecas de C em python :P)
+print(f"É um int? {isinstance(c3.ligado, int)}") # ps: False é o mesmo que 0 inteiro (bibliotecas de C em python)
 print(f"É um booleano? {isinstance(c3.ligado, bool)}\n")
