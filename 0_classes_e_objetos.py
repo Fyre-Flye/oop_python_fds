@@ -4,7 +4,7 @@
 class Carro():
     pass
 
-# Objetos são a instâncias de uma classe, ou seja, sua implementação fora do molde, como a planta do próprio carro
+# Objetos são a instâncias de uma classe, ou seja, sua implementação fora do molde, como se fosse a planta do próprio carro
 
 c1 = Carro()
 c2 = Carro()
