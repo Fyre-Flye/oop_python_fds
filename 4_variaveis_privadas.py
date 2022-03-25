@@ -1,4 +1,4 @@
-# Do conceito de encapsulamento dentro da Teoria de POO podemos definir à 
+# Do conceito de encapsulamento dentro da Teoria de POO podemos definir a
 # visibilidade de certos atributos, o que garante a segurança da aplicação
 # e poderá apenas ser acessada por métodos acessores ou modificadores
 # Temos 3 tipos de encapsulamento para um atributo, público, protegido e privado onde...
