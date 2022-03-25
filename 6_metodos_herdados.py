@@ -1,4 +1,4 @@
-# Assim como class podem herdar atributos (características) elas também podem herdar
+# Assim como classes podem herdar atributos (características) elas também podem herdar
 # métodos (comportamentos)
 
 class Veiculo():
