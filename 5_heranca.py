@@ -1,4 +1,4 @@
-# O conceito de herança no paradigma de POO basicamente é que uma sub-classe pode herdar
+# O conceito de herança no paradigma de POO basicamente diz que uma sub-classe pode herdar
 # Atributos de uma super-classe, evitando que se repita muitas linhas de código
 
 class Veiculo():
